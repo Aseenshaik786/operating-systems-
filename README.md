@@ -29,3 +29,13 @@ round robin ASEEN 192110534.c
 sequential file allocation.c
 
 sjf scheduling ASEEN 192110534.c
+
+First Come First Served disk scheduling ASEEN.C
+
+firstfitASEEN.c
+
+scanDiskSchedulingASEEN.c
+
+single level directoryASEEN.c
+
+twolevelASEEN.c
