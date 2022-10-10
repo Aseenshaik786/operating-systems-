@@ -39,3 +39,13 @@ scanDiskSchedulingASEEN.c
 single level directoryASEEN.c
 
 twolevelASEEN.c
+
+file allocation BLOCK aseen.c
+
+index blockASEEN.c
+
+linux ASEEN.c
+
+store records ASEEN.c
+
+random access file.c
